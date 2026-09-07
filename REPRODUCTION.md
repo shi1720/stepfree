@@ -18,8 +18,8 @@ synthetic and lives in this repository.
 ## Setup (one time, ~2 minutes)
 
 ```bash
-git clone https://github.com/shi1720/micro1-hackathon.git
-cd micro1-hackathon
+git clone https://github.com/shi1720/stepfree.git
+cd stepfree
 
 cd stepfree && npm install && cd ..
 
